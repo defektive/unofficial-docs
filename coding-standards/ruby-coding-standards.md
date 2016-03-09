@@ -1,3 +1,5 @@
+# Ruby Coding Standards
+
 We generally follow the [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) maintained by bbatsov, with the following exceptions:
 
 ## Coercing Boolean Values

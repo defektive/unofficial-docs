@@ -1,4 +1,5 @@
 # Unofficial docs
 
 ## Coding Standards
-[ruby](coding-standards/ruby-coding-standards.md)
+- [js](coding-standards/js-coding-standards.md)
+- [ruby](coding-standards/ruby-coding-standards.md)
