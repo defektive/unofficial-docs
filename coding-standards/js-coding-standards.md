@@ -1,7 +1,8 @@
 # JS Coding Standards
 
 ## AirBnB
-Use [AirBnB ES5 styleguide](https://github.com/airbnb/javascript/tree/master/es5)
+Use [AirBnB's styleguide](https://github.com/airbnb/javascript) with the exception
+to items listed below.
 
 ### Exceptions where AirBnB is not followed
 
